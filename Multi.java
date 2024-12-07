@@ -11,7 +11,7 @@ class Marks {
             System.out.println("YOU GOT PASSED!!!");
         } 
 else {
-            System.out.println("BETTER LUCK NEXT TIME.");
+            System.out.println("BETTER LUCK NEXT TIME!!");
         }
     }
 }
